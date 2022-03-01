@@ -1,2 +1,2 @@
 My first readme
-a litte update
+a little update
